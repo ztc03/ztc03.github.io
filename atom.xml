@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ztc03.github.io/ztcfireworks</id>
+    <title>Gridea</title>
+    <updated>2022-01-17T10:01:55.442Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ztc03.github.io/ztcfireworks"/>
+    <link rel="self" href="https://ztc03.github.io/ztcfireworks/atom.xml"/>
+    <subtitle>去生活，去犯错，去跌倒，去胜利，去用生命再创生命。</subtitle>
+    <logo>https://ztc03.github.io/ztcfireworks/images/avatar.png</logo>
+    <icon>https://ztc03.github.io/ztcfireworks/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+</feed>
