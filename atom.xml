@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ztc03.github.io/ztcfireworks</id>
     <title>ztc&apos;s fireworks</title>
-    <updated>2022-01-17T14:42:21.717Z</updated>
+    <updated>2022-01-17T14:48:02.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ztc03.github.io/ztcfireworks"/>
     <link rel="self" href="https://ztc03.github.io/ztcfireworks/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://ztc03.github.io/ztcfireworks/favicon.ico</icon>
     <rights>All rights reserved 2022, ztc&apos;s fireworks</rights>
     <entry>
-        <title type="html"><![CDATA[Helo,life.]]></title>
+        <title type="html"><![CDATA[Hello,life.]]></title>
         <id>https://ztc03.github.io/ztcfireworks/post/helolife/</id>
         <link href="https://ztc03.github.io/ztcfireworks/post/helolife/">
         </link>
