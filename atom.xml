@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ztc03.github.io/ztcfireworks</id>
     <title>ztc&apos;s fireworks</title>
-    <updated>2022-01-17T13:11:44.230Z</updated>
+    <updated>2022-01-17T13:45:34.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ztc03.github.io/ztcfireworks"/>
     <link rel="self" href="https://ztc03.github.io/ztcfireworks/atom.xml"/>
@@ -10,4 +10,19 @@
     <logo>https://ztc03.github.io/ztcfireworks/images/avatar.png</logo>
     <icon>https://ztc03.github.io/ztcfireworks/favicon.ico</icon>
     <rights>All rights reserved 2022, ztc&apos;s fireworks</rights>
+    <entry>
+        <title type="html"><![CDATA[Helo,life.]]></title>
+        <id>https://ztc03.github.io/ztcfireworks/post/helolife/</id>
+        <link href="https://ztc03.github.io/ztcfireworks/post/helolife/">
+        </link>
+        <updated>2022-01-17T13:14:13.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>如烟花流过天际，生活。
+</code></pre>
+<p><img src="https://ztc03.github.io/ztcfireworks/post-images/1642426521136.jpeg" alt="" loading="lazy"><br>
+今天创建了自己的小博客，分享我的生活。<br>
+愿精彩、愿灿烂、愿无憾、愿充实。<br>
+那么，开始！<br>
+欢迎大家与我一同分享喜悦、悲伤、奋斗后的充实抑或是生活中的哲思与趣想！😘😘😘</p>
+]]></content>
+    </entry>
 </feed>
